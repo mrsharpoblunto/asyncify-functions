@@ -1,0 +1,23 @@
+{
+  "name": "promisify-members",
+  "version": "1.0.0",
+  "description": "Convert functions with node style callbacks into functions returning Promises",
+  "main": "asyncify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrsharpoblunto/promisify-members.git"
+  },
+  "keywords": [
+    "promises",
+    "async"
+  ],
+  "author": "Glenn Conner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsharpoblunto/promisify-members/issues"
+  },
+  "homepage": "https://github.com/mrsharpoblunto/promisify-members#readme"
+}
