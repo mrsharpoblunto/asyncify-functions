@@ -1,5 +1,5 @@
-# asyncify-functions
-Convert functions with node style callbacks into functions returning Promises
+# Promisify-members
+Convert a subset of member functions on an object with node style callbacks into functions returning Promises
 
 ## Usage
 
